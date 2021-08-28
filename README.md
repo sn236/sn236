@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sn236
-- 👀 I’m interested in Coding, Reading books, Listening to Lo-Fi music while coding
+- 👀 I’m interested in Coding, Reading books, Listening to music while coding
 - 🌱 I’m currently learning Css
 - 😄 Pronouns: He
 - 🌞 Skills: HTML, Python and p5.JS.
