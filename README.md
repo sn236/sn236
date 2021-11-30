@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, Reading books, Listening to music while coding
 - 🌱 I’m currently learning Css
 - 😄 Pronouns: He
-- 🌞 Skills: HTML, Python and p5.JS.
+- 🌞 Skills: HTML, Python, Css and p5.JS.
 - 📫 How to reach me Here is my repl account - https://replit.com/@sn236, I am also there on codepen - https://codepen.io/sn236, But I make most of my projects on repl only
 - Follow me - https://replit.com/@sn236, https://codepen.io/sn236
 <!---
