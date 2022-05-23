@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Css
 - 😄 Pronouns: He
 - 🌞 Skills: HTML, Python, Css and p5.JS.
-- 📫 How to reach me Here is my repl account - https://replit.com/@sn236, I am also there on codepen - https://codepen.io/sn236, and Discord - shre-shre#4937
+- 📫 How to reach me Here is my repl account - https://replit.com/@sn236, I am also there on codepen - https://codepen.io/sn236, and Discord - sn236#4937
 - Follow me - https://replit.com/@sn236, https://codepen.io/sn236
 <!---
 sn236/sn236 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
