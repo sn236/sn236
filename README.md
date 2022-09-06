@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sn236
 - 👀 I’m interested in Coding, Reading books, Listening to music while coding
-- 🌱 I’m currently learning Css
+- 🌱 I’m currently learning JS
 - 😄 Pronouns: He
 - 🌞 Skills: HTML, Python, Css and p5.JS.
 - 📫 How to reach me Here is my repl account - https://replit.com/@sn236, I am also there on codepen - https://codepen.io/sn236, and Discord - sn236#4937
